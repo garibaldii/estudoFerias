@@ -14,5 +14,5 @@ ligar_para({
     vulgo: "Capitão América",
     telefone: "11 31713888",
 });
-//aqui o TS já tipa a funcao hero com três classes: nome, vulgo e telefone. Sendo obrigatório
-// a declaração das três antes de qualquer chamada. 
+//aqui o TS já tipa o objeto hero com três propriedades: nome, vulgo e telefone. Sendo obrigatório
+// a declaração das três antes de qualquer chamada.     
